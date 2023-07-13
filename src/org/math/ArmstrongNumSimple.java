@@ -17,7 +17,7 @@ public class ArmstrongNumSimple {
 		int sum = 0;
 		
 		while(n>0) {
-		r = n % 10; // to split numbers from original
+		r = n % 10; // to split numbers from originalj
 		n = n/10;
 		sum = sum + r * r * r;
 		}

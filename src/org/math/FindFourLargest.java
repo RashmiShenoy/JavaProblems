@@ -14,6 +14,7 @@ public class FindFourLargest {
 		System.out.println("\n");
 		int sum = 0;
 		
+		//test
 		//total = size = 8, 4th largest = arr[4] arr[5] arr[6] arr[7]
 		System.out.println(sortarr[size-1]);
 		//sum = (arr[size-4] + arr[size-3] + arr[size-2] + arr[size-1]);

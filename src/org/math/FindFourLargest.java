@@ -7,7 +7,7 @@ public class FindFourLargest {
 		int[] arr = { 4, 5, -2, 3, 1, 2, 6, 6 };
 		int size = arr.length;
 				
-		int[] sortarr = LargestFour(arr);
+		int[] sortarr = LargestFour(arr);	
 		for (int i = 0; i < size ; i++)
 			System.out.print(sortarr[i] + ",");
 
